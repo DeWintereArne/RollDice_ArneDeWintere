@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Rollemup!</string>
+    <string name="imgdicescontent"/>
+    <string name="btnThrow">Roll The Dice!</string>
+    <string name="btnThrow4dice">Roll all the dice</string>
+    <string name="imgdicescontent2" />
+    <string name="imgdicescontent3" />
+    <string name="imgdicescontent4" />
+    <string name="btnDeletedice">Delete the dice!</string>
+
+    <string-array name="diceToasts">
+        <item>"You've got to blow it!"</item>
+        <item>"Enlish people like tea"</item>
+        <item>"You want some? i give it ya"</item>
+        <item>"i roll dice, god i'm nice"</item>
+        <item>"thats alot of damage"</item>
+        <item>"first dice apy yea"</item>
+    </string-array>
+</resources>

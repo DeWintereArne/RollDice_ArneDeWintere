@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnThrow4dice">Roll all the dice</string>
+    <string name="imgdicescontent2" />
+    <string name="imgdicescontent3" />
+    <string name="imgdicescontent" />
+    <string name="btnDeletedice">Delete the dice!</string>
+</resources>
